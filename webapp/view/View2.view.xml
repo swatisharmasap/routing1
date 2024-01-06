@@ -1,0 +1,9 @@
+<mvc:View controllerName="sap.com.routing1.controller.View2"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+        <content >
+        <Button text="Page 2 Button"  press="onPressButton2"/>
+        </content>
+    </Page>
+</mvc:View>
